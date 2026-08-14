@@ -10,3 +10,6 @@ print(【 空欄A 】)
 
 print(【 空欄B 】)",,"cat dog
 bird fish",同じ行の単語の間には半角スペースを入れます,,10
+Q05,選択,"次のPythonコードを実行したとき、画面にはどのように表示されますか？
+print('Py', end='')
+print('thon')","Py thon, Py '' thon, Python",,print 関数の end='' を使って、デフォルトの改行をしなくなる。,,5
